@@ -1,0 +1,30 @@
+main {
+  margin: 10px;
+  width: 200px;
+  border: 5px solid #4285f4;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: 'Architects Daughter', cursive;
+}
+
+p {
+  margin: 0;
+  padding: 20px;
+}
+.North {
+  background: #E67676;
+}
+
+.East {
+  background: #F2F062;
+}
+
+.South {
+  background: #A9E6E6;
+}
+
+.West {
+  background: #7692E4;
+}
